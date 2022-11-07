@@ -1,4 +1,4 @@
 # eBay API Wrapper
-An unofficial API wrapper for https://developer.ebay.com.
+An unofficial API wrapper for the eBay API. (https://developer.ebay.com)
 
 <b> This project is very much a WIP, so don't expect anything to work. </b>
