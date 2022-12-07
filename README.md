@@ -12,7 +12,7 @@ An unofficial API wrapper for the eBay API. (https://developer.ebay.com)
 | Traditional Selling APIs         |      8     |     0%    |       -       |   -   |
 | After Sale APIs                  |      4     |     0%    |       -       |   -   |
 
-All listed APIs: https://developer.ebay.com/docs <br>
+All listed APIs: https://developer.ebay.com/docs. <br>
 If it is not on the [documentation site](https://docs.tradebuddy.xyz), the call probably isn't supported.
 
 <b>This project is very much a WIP, so don't expect anything to work at the monent. </b>
