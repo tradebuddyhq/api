@@ -12,8 +12,7 @@ An unofficial API wrapper for the eBay API. (https://developer.ebay.com)
 | Traditional Selling APIs         |      8     |     0%    |       -       |   -   |
 | After Sale APIs                  |      4     |     0%    |       -       |   -   |
 
-All listed APIs: https://developer.ebay.com/docs. <br>
-If it is not on the [documentation site](), the call probably isn't supported.
+All listed APIs: [developer.ebay.com/docs](https://developer.ebay.com/docs). If it is not on the [documentation site](https://ebay-wrapper.js.org), the call probably isn't supported.
 
 > **Warning**: This project is very much a WIP, so don't expect anything to work at the monent. <br>
 
