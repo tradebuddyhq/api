@@ -1,5 +1,5 @@
 # eBay API Wrapper
-An unofficial API wrapper for the eBay API. (https://developer.ebay.com)
+An unofficial API wrapper for the [eBay API](https://developer.ebay.com).
 
 | Endpoint                         | Total APIs | Supported | Documentation | Notes |
 |----------------------------------|------------|-----------|---------------|-------|
