@@ -14,5 +14,5 @@ An unofficial API wrapper for the [eBay API](https://developer.ebay.com). Find t
 
 All listed APIs: [developer.ebay.com/docs](https://developer.ebay.com/docs).
 
-> **Warning**: This project is very much a WIP, so don't expect anything to work at the monent.
+> **Warning**: This project is very much a WIP, so don't expect anything to work at the moment.
 
